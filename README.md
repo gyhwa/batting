@@ -41,7 +41,7 @@ To clean the data, we removed anyone who did not have an opportunity at bat as t
 
 For each of the comparisons,we graphed a standardized scatter plot and calculated correlation.
 
-# Baseball Abreviation Meaings:
+# Baseball Abbreviation Meaings:
    Gotten information from [here](http://www.baseball-almanac.com/stats4.shtml).
     
     AB - at bats
