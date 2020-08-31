@@ -21,7 +21,7 @@ from scipy import stats
     What are the characteristics of baseball players with the highest salaries?
          - Similiary here, we will focus on Salary to a select number of performance statistics
          - Independent value: Salary
-         - Dependent valuess: 
+         - Dependent values: 
              - AVG
              - AB 
              - HHR
